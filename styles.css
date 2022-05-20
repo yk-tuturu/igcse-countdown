@@ -12,9 +12,9 @@ main{
     text-align: center;
 }
 
-h1 {
-    text-decoration: bold;
+p {
     font-size: 30px;
+    margin: zero;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
