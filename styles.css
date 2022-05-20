@@ -7,8 +7,8 @@ main{
     color: rgba(255,255,255,0.92)
 }
 
-.container p-5 {
-    padding: 1rem
+.container {
+    padding: 10px
 }
 
 p {

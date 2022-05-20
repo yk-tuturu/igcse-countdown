@@ -9,10 +9,10 @@
     </head>
 
     <body>
-        <main class="container p-5">
+        <main class="container">
             <p><b>End of IGs</b></p>
             <p id='timer' style='font-size: 16px'></p>
-            <h1 id='celebration'></h1>
+            <p id='celebration'></p>
         </main>
     </body>
     <script>
@@ -33,7 +33,7 @@
             if (distance <= 0){
                 clearInterval(x)
                 timer.innerHTML = '0d 0h 0m 0s'
-                document.getElementById('celebration').innerHTML = 'CONGRATULATIONS, YOU HAVE REACHED THE END OF THE IGCSES!!'
+                document.getElementById('celebration').innerHTML = 'Congratulations, you have survived to the end!!'
             }
         }, 1000)
     </script>
