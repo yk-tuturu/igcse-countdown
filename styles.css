@@ -1,0 +1,23 @@
+main{
+    /* Scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* Center contents */
+    text-align: center;
+    color: rgba(255,255,255,0.92)
+}
+
+#timer {
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: bold;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+body {
+    background-color: #191919
+}
